@@ -9,3 +9,4 @@ CREATE TABLE subgenre(
 id INTEGER PRIMARY KEY,
 name TEXT
 );
+
