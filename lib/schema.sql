@@ -30,4 +30,5 @@ species TEXT,
 author_id INTEGER
 );
 
+CREATE TABLE name TEXT,
 
